@@ -8,10 +8,10 @@ import WebsiteVisitor from '../components/WebsiteVisitor'
 const Dashboard = () => {
     return (
       <div className="all-metrics">
+        <Sidebar />    
         <AverageRating />
         <Reviews />
         <SentimentAnalysis />
-        <Sidebar />
         <WebsiteVisitor />
       </div>
   
