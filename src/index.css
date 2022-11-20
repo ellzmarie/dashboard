@@ -1,3 +1,46 @@
 body {
-  background-color: aqua;
+  background-color: #191c24;
+  color: #aeb8fe;
+  border-style: solid;
+  border-color: #cbc0ae;
+  font-family: 'Montserrat', sans-serif;
+  position: relative;
+  width: 900px;
+  height: 700px;
+}
+
+.all-metrics {
+  display: flex;
+  justify-content: space-around;
+}
+
+.average-rating {
+  background-color: #2e2e3a;
+  border-style: solid;
+  border-color: #cbc0ae;
+}
+
+.reviews {
+  background-color: #2e2e3a;
+  border-style: solid;
+  border-color: #cbc0ae;
+}
+
+.sentiment-analysis {
+  background-color: #2e2e3a;
+  border-style: solid;
+  border-color: #cbc0ae;
+}
+
+.website-visitor {
+  background-color: #2e2e3a;
+  border-style: solid;
+  border-color: #cbc0ae;
+}
+
+.sidebar {
+  background-color: #2e2e3a;
+  border-style: solid;
+  border-color: #cbc0ae;
+  display: flex;
 }
