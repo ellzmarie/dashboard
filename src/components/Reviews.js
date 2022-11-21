@@ -2,7 +2,7 @@ import React from 'react'
 
 const Reviews = () => {
     return (
-        <div className="reviews">
+        <div className="three-boxes" id='right-side'>
             <h3>Reviews</h3>
             <p>1,281</p>
         </div>
