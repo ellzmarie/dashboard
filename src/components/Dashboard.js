@@ -5,6 +5,7 @@ import SentimentAnalysis from '../components/SentimentAnalysis'
 import Sidebar from '../components/Sidebar'
 import WebsiteVisitor from '../components/WebsiteVisitor'
 
+//nice grid!! i like your color choices too, nice to look at
 const Dashboard = () => {
     return (
       <div className="all-metrics">
